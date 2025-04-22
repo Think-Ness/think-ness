@@ -35,11 +35,12 @@
       <img src="https://img.shields.io/badge/4.-☎️_Wartel_Gontor_3-white" alt="Transport"/>
 </div>
 
-
+  <div display="flex">
 #### 👥 **Collaborated with Yusuf Ubaidillah** in:
   <a href="https://www.instagram.com/yusoefubaidillah">
     <img src="https://img.shields.io/badge/@yusoefubaidillah-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  </div>
   <div display="flex">
       <img src="https://img.shields.io/badge/1.-📸_Bagian_Fotografi-red" alt="Transport"/>
       <img src="https://img.shields.io/badge/4.-🛍️_Koperasi_Pelajar-white" alt="Transport"/>
