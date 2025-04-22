@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Sigap Dwi Aminullah! </h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=think-ness&label=Profile_Views&color=1ED760&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=think-ness&label=Profile_Views&color=07C160&style=for-the-badge)
 
 
 🎓 I'm a student at **University  of Darussalam Gontor**  
