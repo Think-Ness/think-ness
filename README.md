@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sigap_dwi96">
-    <img src="https://img.shields.io/badge/1._-Wisma_Darussalam-Blue" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-Blue" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/sigap_dwi96">
     <img src="https://img.shields.io/badge/1._-Wisma Darussalam-Blue" alt="Twitter"/>
