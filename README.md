@@ -39,10 +39,11 @@
 </div>
 
   <div display="flex">
-    <h3>👥 Collaborated with Yusuf Ubaidillah in: </h3>
-    <a href="https://www.instagram.com/yusoefubaidillah">
+    <h4>👥 Collaborated with Yusuf Ubaidillah in: 
+        <a href="https://www.instagram.com/yusoefubaidillah">
       <img src="https://img.shields.io/badge/@yusoefubaidillah-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
+    </a></h4>
+
   </div>
   <div>
       <img src="https://img.shields.io/badge/1.-📸_Bagian_Fotografi-red" alt="Transport"/>
