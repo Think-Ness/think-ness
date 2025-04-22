@@ -29,6 +29,7 @@
 ### 🤝 Project Collaborations
 
 #### 🧾 **Cashier System Development (Microsoft Access-based)**
+I've worked on multiple cashier system projects using Microsoft Access, with focus on database structure, UI, and user workflow. Some of the implementations include:
 <div display="flex">
     <img src="https://img.shields.io/badge/1.-💼_Wisma_Darussalam-blue" alt="Wisma"/>
     <img src="https://img.shields.io/badge/2.-🏢_Kantor_IKPM_Gontor-green" alt="Ikpm"/>
@@ -41,8 +42,8 @@
   <div display="flex">
     <h4>👥 Collaborated with
         <a href="https://www.instagram.com/yusoefubaidillah">Yusuf Ubaidillah</a> in:</h4>
-
   </div>
+  In several cashier system projects, I had the opportunity to collaborate closely with **Yusuf Ubaidillah**, focusing on:
   <div>
       <img src="https://img.shields.io/badge/1.-📸_Bagian_Fotografi-red" alt="Transport"/>
       <img src="https://img.shields.io/badge/2.-🛍️_Koperasi_Pelajar-white" alt="Transport"/>
