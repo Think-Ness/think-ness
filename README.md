@@ -17,11 +17,8 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/Tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB" alt="tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-%23007ACC.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="CSS"/>
 </div>
 
 ---
