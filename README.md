@@ -1,5 +1,8 @@
 <h2> Hi there 👋, I'm Sigap Dwi Aminullah! </h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=think-ness&label=Pengintip%20Setia&color=ff69b4&style=for-the-badge)
+
+
 🎓 I'm a student at **University  of Darussalam Gontor**  
 💻 Currently passionate about building **Web Applications** and exploring **Data Analytics**
 
