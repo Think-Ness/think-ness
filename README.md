@@ -30,8 +30,8 @@
 <div display="flex">
     <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
   <a href="#">
-    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
-    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
+    <img src="https://img.shields.io/badge/2.-Kantor_IKPM_Gontor-Green" alt="Ikpm"/>
+    <img src="https://img.shields.io/badge/3.-Latansa_Transport-Red" alt="Transport"/>
   </a>
 </div>
 - 💼 **Wisma Darussalam**
