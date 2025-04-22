@@ -42,7 +42,7 @@ I've worked on multiple cashier system projects using Microsoft Access, with foc
   <div display="flex">
     <h4>👥 Team Collaboration with 
         <a href="https://www.instagram.com/yusoefubaidillah">Yusuf Ubaidillah</a></h4>
-    <p>  In several cashier system projects, I had the opportunity to collaborate closely with **Yusuf Ubaidillah**, focusing on:</p>
+    <p>  In several cashier system projects, I had the opportunity to collaborate closely with <span style: "font-bold"> Yusuf Ubaidillah </span>, focusing on:</p>
   </div>
 
   <div>
