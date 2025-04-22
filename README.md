@@ -36,7 +36,7 @@
 </div>
 
   <div display="flex">
-#### 👥 **Collaborated with Yusuf Ubaidillah** in:
+<h3>👥 Collaborated with Yusuf Ubaidillah in: </h3>
   <a href="https://www.instagram.com/yusoefubaidillah">
     <img src="https://img.shields.io/badge/@yusoefubaidillah-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
