@@ -28,19 +28,22 @@
 
 #### 🧾 **Cashier System Development (Microsoft Access-based)**
 <div display="flex">
-    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
-    <img src="https://img.shields.io/badge/2.-Kantor_IKPM_Gontor-green" alt="Ikpm"/>
+    <img src="https://img.shields.io/badge/1.-💼_Wisma_Darussalam-blue" alt="Wisma"/>
+    <img src="https://img.shields.io/badge/2.-🏢_Kantor_IKPM_Gontor-green" alt="Ikpm"/>
 </div>
 <div display="flex">
-      <img src="https://img.shields.io/badge/3.-Latansa_Transport-red" alt="Transport"/>
-      <img src="https://img.shields.io/badge/4.-Wartel_Gontor_3-white" alt="Transport"/>
+      <img src="https://img.shields.io/badge/3.-🚐_Latansa_Transport-red" alt="Transport"/>
+      <img src="https://img.shields.io/badge/4.-☎️_Wartel_Gontor_3-white" alt="Transport"/>
 </div>
-- 💼 **Wisma Darussalam**
-- 🏢 **Kantor IKPM Gontor**
-- 🚐 **Latansa Transport**
-- ☎️ **Wartel Gontor 3**
 
 #### 👥 **Collaborated with Yusuf Ubaidillah** in:
+  <a href="https://www.instagram.com/yusoefubaidillah">
+    <img src="https://img.shields.io/badge/@yusoefubaidillah-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+<div display="flex">
+      <img src="https://img.shields.io/badge/3.-🚐_Latansa_Transport-red" alt="Transport"/>
+      <img src="https://img.shields.io/badge/4.-☎️_Wartel_Gontor_3-white" alt="Transport"/>
+</div>
 - 📸 **Bagian Fotografi**
 - 🛍️ **Koperasi Pelajar**
 
@@ -64,7 +67,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sigap_dwi96">
-    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/@sigap_dwi96-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
@@ -78,40 +81,3 @@
 ---
 
 Thanks for visiting my profile! 🤝 Let’s connect and build something cool!
-
-
-
-### 🔭 I’m working on
-
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
-
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
-
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
-### 📫 How to reach me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
