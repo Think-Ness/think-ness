@@ -29,10 +29,11 @@
 #### 🧾 **Cashier System Development (Microsoft Access-based)**
 <div display="flex">
     <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
-  <a href="#">
     <img src="https://img.shields.io/badge/2.-Kantor_IKPM_Gontor-green" alt="Ikpm"/>
-    <img src="https://img.shields.io/badge/3.-Latansa_Transport-red" alt="Transport"/>
-  </a>
+</div>
+<div display="flex">
+      <img src="https://img.shields.io/badge/3.-Latansa_Transport-red" alt="Transport"/>
+      <img src="https://img.shields.io/badge/4.-Wartel_Gontor_3-white" alt="Transport"/>
 </div>
 - 💼 **Wisma Darussalam**
 - 🏢 **Kantor IKPM Gontor**
