@@ -56,10 +56,6 @@
 ---
 
 ### 📫 How to reach me:
-📧 sigapdwi@gontor.ac.id  
-🔗 https://www.linkedin.com/in/sigap-dwi-aminullah/
-
-### 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/sigap-dwi-aminullah/">
@@ -81,5 +77,5 @@
 
 Thanks for visiting my profile! 🤝 Let’s connect and build something cool!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=think-ness&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=think-ness&show_icons=true&theme=clasic)
 
