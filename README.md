@@ -77,5 +77,5 @@
 
 Thanks for visiting my profile! 🤝 Let’s connect and build something cool!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=think-ness&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=think-ness&show_icons=true&theme=darkblue)
 
