@@ -1,6 +1,53 @@
-## Hi there 👋
+<h2> Hi there 👋, I'm Sigap Dwi Aminullah! </h2>
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+🎓 I'm a student at **University  of Darussalam Gontor**  
+💻 Currently passionate about building **Web Applications** and exploring **Data Analytics**
+
+---
+
+### 💡 What I'm up to:
+- 🌱 Learning **HTML, CSS, JavaScript, PHP, Laravel & Python** for web development
+- 📊 Developing my skills in **database systems** with Microsoft Access & MySQL
+- 🧠 Deeply interested in how **tech can simplify everyday problems**
+
+---
+
+### 🔍 Ask me about:
+- Database Design & Microsoft Access
+- Web App Development (Frontend + Backend)
+- Python, SQL, and a bit of UI/UX tricks
+
+---
+
+### 📫 How to reach me:
+📧 sigapdwi@gontor.ac.id  
+🔗 https://www.linkedin.com/in/sigap-dwi-aminullah/
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/sigap-dwi-aminullah/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sigap_dwi96">
+    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@bernardbad">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+---
+
+### ⚡ Fun facts:
+- I enjoy creating systems from scratch 💾  
+- I play Mobile Legends when I'm not debugging bugs 😆  
+- I love learning by building real-world projects
+
+---
+
+Thanks for visiting my profile! 🤝 Let’s connect and build something cool!
+
 
 **I love working with**
 
