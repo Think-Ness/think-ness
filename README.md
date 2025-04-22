@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Microsoft 365-%231572B6.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Microsoft 365-%231572B6.svg?style=for-the-badge&logo=microsoft365&logoColor=white" alt="CSS"/>
 </div>
 
 ---
