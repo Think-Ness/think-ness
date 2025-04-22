@@ -44,10 +44,8 @@
       <img src="https://img.shields.io/badge/@yusoefubaidillah-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </div>
-  <div display="flex">
       <img src="https://img.shields.io/badge/1.-📸_Bagian_Fotografi-red" alt="Transport"/>
-      <img src="https://img.shields.io/badge/4.-🛍️_Koperasi_Pelajar-white" alt="Transport"/>
-  </div>  
+      <img src="https://img.shields.io/badge/2.-🛍️_Koperasi_Pelajar-white" alt="Transport"/>
 
 ---
 
