@@ -12,6 +12,28 @@
 
 ---
 
+### 🤝 Project Collaborations
+
+#### 🧾 **Cashier System Development (Microsoft Access-based)**
+<div display="flex">
+  <a href="https://www.linkedin.com/in/sigap-dwi-aminullah/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sigap_dwi96">
+    <img src="https://img.shields.io/badge/1._-Wisma Darussalam-Blue" alt="Twitter"/>
+  </a>
+</div>
+- 💼 **Wisma Darussalam**
+- 🏢 **Kantor IKPM Gontor**
+- 🚐 **Latansa Transport**
+- ☎️ **Wartel Gontor 3**
+
+#### 👥 **Collaborated with Yusuf Ubaidillah** in:
+- 📸 **Bagian Fotografi**
+- 🛍️ **Koperasi Pelajar**
+
+---
+
 ### 🔍 Ask me about:
 - Database Design & Microsoft Access
 - Web App Development (Frontend + Backend)
@@ -30,10 +52,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sigap_dwi96">
-    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
