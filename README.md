@@ -28,14 +28,10 @@
 
 #### 🧾 **Cashier System Development (Microsoft Access-based)**
 <div display="flex">
-  <a href="https://www.linkedin.com/in/sigap-dwi-aminullah/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/sigap_dwi96">
     <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
-  </a>
-  <a href="https://instagram.com/sigap_dwi96">
-    <img src="https://img.shields.io/badge/1._-Wisma Darussalam-Blue" alt="Twitter"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
+    <img src="https://img.shields.io/badge/1.-Wisma_Darussalam-blue" alt="Wisma"/>
   </a>
 </div>
 - 💼 **Wisma Darussalam**
